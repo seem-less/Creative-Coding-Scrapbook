@@ -2,4 +2,4 @@ Taking video input via webcam and translating the color information of the pixel
 
 ![alt text](https://raw.githubusercontent.com/seem-less/Creative-Coding-Scrapbook/master/PixelsOnVideo/brightnesslines.png)
 
-![alt text](https://raw.githubusercontent.com/seem-less/Creative-Coding-Scrapbook/master/PixelsOnVideo/distortedcolor.png)
+![alt text](https://raw.githubusercontent.com/seem-less/Creative-Coding-Scrapbook/master/PixelsOnVideo/colPixelVid.JPG)
